@@ -45,7 +45,7 @@
       "@oclif/plugin-help"
     ]
   },
-  "repository": "/todocli",
+  "repository": "https://github.com/truecolintracy/todocli",
   "scripts": {
     "postpack": "rm -f oclif.manifest.json",
     "posttest": "eslint .",
