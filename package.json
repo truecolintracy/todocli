@@ -5,7 +5,7 @@
   "bin": {
     "todocli": "./bin/run"
   },
-  "bugs": "https://github.com//todocli/issues",
+  "bugs": "https://github.com/truecolintracy/todocli/issues",
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
@@ -32,7 +32,7 @@
     "/oclif.manifest.json",
     "/src"
   ],
-  "homepage": "https://github.com//todocli",
+  "homepage": "https://github.com/truecolintracy/todocli",
   "keywords": [
     "oclif"
   ],
